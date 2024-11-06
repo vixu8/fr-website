@@ -1,0 +1,22 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1.2fr 170px 2fr 1fr;
+    grid-gap: 20px 10px;
+}
+.grid-left-side{
+    grid-column: 2/3;
+}
+.grid-right-side{
+    grid-column: 3/4;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+.bold{
+    font-weight: bold;
+}
+
+.cntr{
+    text-align: center;
+}
