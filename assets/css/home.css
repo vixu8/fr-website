@@ -21,7 +21,8 @@
     text-align: center;
 }
 
-h1 {
-    color:rgb(219, 219, 219)
-
+body {
+    color:rgb(219, 219, 219);
+    size: 16vw;
+    align:center;
 }
