@@ -23,6 +23,6 @@
 
 body {
     color:rgb(219, 219, 219);
-    size: 16vw;
-    align:center;
+    font-size: 10vw;
+    text-align:center;
 }
